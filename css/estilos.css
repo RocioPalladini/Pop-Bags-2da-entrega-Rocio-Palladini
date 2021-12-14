@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(230, 223, 154);
+}
+
+.logo{
+    height: 200px;
+}
+
+nav{
+    background-color: rgb(218, 217, 146);
+}
+
+nav a{
+    font-size: 19px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
