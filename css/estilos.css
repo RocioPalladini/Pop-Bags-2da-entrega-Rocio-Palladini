@@ -26,6 +26,47 @@ header{
     justify-content: center;
 }
 
-.tote{
+.tote{ 
     border-radius: 500px;
+}
+
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+    color: rgb(110, 105, 57);
+}
+
+.section{
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    margin: 2rem;
+    justify-content: center;
+
+}
+
+.masvendidosimg{
+    height: 350px;
+    justify-content: space-around;
+    border-bottom: 2px solid rosybrown;
+    border-top: 2px solid rosybrown;
+    border-left: 2px solid rosybrown;
+    border-right: 2px solid rosybrown;
+    margin: 2rem;
+}
+.parrafo{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    font-size: 18px;
+    color: rgb(99, 55, 55);
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    color: rgb(117, 117, 72);
 }
