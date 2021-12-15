@@ -105,3 +105,16 @@ footer{
 .container{
     font-size: 25px;
 }
+
+.animacion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.totelogin{
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 500px;
+}
