@@ -93,3 +93,15 @@ footer{
 .logo_a{
     height: 50px;
 }
+
+.h3{
+    padding: 3rem;
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    font-size: 25px;
+}
